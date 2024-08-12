@@ -1,5 +1,5 @@
 
-![Logo]([https://raw.githubusercontent.com/Dialzy/.github/main/logo%2Bbrand.png](https://raw.githubusercontent.com/Dialzy/.github/main/logo--logo.png))
+![Logo]([https://raw.githubusercontent.com/Dialzy/.github/main/logo--logo.png])
 
 
 # Welcome to Dialzy ! 🎉
