@@ -1,7 +1,4 @@
 
-![Logo](https://raw.githubusercontent.com/Dialzy/.github/main/logo%2Bbrand.png)
-
-
 # Welcome to Dialzy ! 🎉
 
 ## Overview ℹ️
