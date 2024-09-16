@@ -20,5 +20,5 @@ Qlize is built and maintained by a dedicated team of passionate developers who a
 Join Qlize today and start exploring a world of new connections, experiences, and conversations. Qlize is where your next great conversation begins.
 
 
-To begin contributing to the project, contact us at 👉 contact@Qlize.fun
+To begin contributing to the project, contact us at 👉 contact@qilze.com
 
